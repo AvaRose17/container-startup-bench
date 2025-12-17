@@ -6,7 +6,7 @@ Goal: run a tiny C program in a container and measure container \*\*startup time
 
 
 
-\## How to run (once finished)
+\## How to run 
 
 1\) `docker build -t bench .`
 
