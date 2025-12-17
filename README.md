@@ -24,3 +24,6 @@ Outputs:
 
 \- `summary.csv` (aggregated stats)
 
+
+The results show consistent container startup overhead on Docker, with variance across runs likely due to cold-start effects and host scheduling noise.
+
